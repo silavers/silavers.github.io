@@ -23,6 +23,18 @@ a {
   font-size: 50px;
   }
 
+h2 {
+  font-size: 36px;
+  }
+
+h3 {
+  font-size: 30px;
+  }
+
+h4 {
+  font-size: 26px;
+  }
+
 .assignments {
   font-size: 12px;
   line-height: 24px;
