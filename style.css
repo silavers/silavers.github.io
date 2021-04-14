@@ -4,8 +4,24 @@ html, body {
   font-family: 'helvetica', 'arial', 'sans';
 }
 
-h1,h2,h3,h4 {
+h1 {
   font-family: 'helvetica', 'arial', 'sans';
+  font-size: 50px;
+  }
+
+h2 {
+  font-family: 'helvetica', 'arial', 'sans';
+  font-size: 36px;
+  }
+
+h3 {
+  font-family: 'helvetica', 'arial', 'sans';
+  font-size: 30px;
+  }
+
+h4 {
+  font-family: 'helvetica', 'arial', 'sans';
+  font-size: 26px;
   }
 
 
@@ -19,21 +35,8 @@ a {
   padding: 30px 30px 30px;
 }
 
-.header h1 {
-  font-size: 50px;
-  }
 
-h2 {
-  font-size: 36px;
-  }
 
-h3 {
-  font-size: 30px;
-  }
-
-h4 {
-  font-size: 26px;
-  }
 
 .assignments {
   font-size: 12px;
