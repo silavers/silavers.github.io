@@ -23,6 +23,15 @@ a {
   font-size: 50px;
   }
 
+.assignments {
+  font-size: 12px;
+  line-height: 24px;
+  font-family: 'helvetica', 'arial', 'sans';
+  padding: 20px 20px 20px 30px;
+  width: 550px;
+  float: left;
+}
+
 .assignment {
   font-size: 12px;
   line-height: 24px;
