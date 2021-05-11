@@ -1,0 +1,73 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Assignment 3: Getting started with Grasshopper!</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+	    
+	    
+        <div class="header">
+            <h1>Assignment 3: Getting started with Grasshopper!</h1>
+         
+            <p><img src="/Assignment3/Images/clippy.jpg" width="50%"></p>
+          <h3>Set Up</h3>.
+	<p> 
+    
+    <img src="" width="100%">
+    
+		<h3>Making a construction kit</h3>
+          <p>I went for a wu-tang looking clip. I had one pretty bad misprint and then the actual print needed some adjustments. I also printed 
+          
+          <p><b>First Attempts</b>
+          
+		<p> <img src="/Assignment2/Images/Images/nozzleoverhang.jpg" width="30%"><img src="/Assignment2/Images/Images/nozzleoverhang.jpg" width="30%"><img src="/Assignment2/Images/Images/nozzleoverhang.jpg" width="30%"></p>
+    
+    <p><b>Grasshopper Definition</b>
+		<p> <img src="/Assignment2/Images/Images/IMG_9459.jpg" width="50%"></p> 
+    
+    <p><b>Grasshopper Definition</b>
+    
+        <p>
+		<h3>Test Prints</h3
+			
+			<p><b>Bed leveling protocol from Filament Friday</b></p>
+		<p> <img src="/Assignment2/Images/Images/IMG_9461.jpg" width="70%"></p>
+		<p> <img src="/Assignment2/Images/Images/IMG_9462.jpg" width="70%"></p>
+
+		<p><b>A 2cm cube with the standard "low quality" settings </b></p>
+
+		<p> <img src="/Assignment2/Images/Images/IMG_9464.jpg" width="70%"></p>
+		
+		<p><b>A 2cm cube with the standard "standard quality" settings </b></p>
+		<p> <img src="/Assignment2/Images/Images/IMG_9466.jpg" width="70%"></p>
+		
+		<p><b>A 2cm cube with the standard "super quality" settings </b></p>
+		<p> <img src="/Assignment2/Images/Images/IMG_9467.jpg" width="70%"></p>
+		
+		<p><b>A bunch of 3cm tubes & cylinders</b></p>
+		<p> <img src="/Assignment2/Images/Images/IMG_9467.jpg" width="70%"></p>
+
+
+	
+
+              
+        </div><p>
+        
+
+
+        
+
+          
+          
+</div>
+    </body>
+</html>
+
+
+
