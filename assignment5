@@ -15,23 +15,48 @@
 	    
         <div class="header">
             <h1>Assignment 5: Lamps part 2! And molding and casting part 1!</h1>
-         
-            <p><img src="/Assignment5/" width="80%"></p>
+         <p><img src="/Assignment5/IMG_9631.jpg" width="40%"><img src="/Assignment5/IMG_9620.jpg" width="40%"></p>
+            
 
     
 		<h2>Final Lamp</h2>
-          <p>After lots 
+          <p>After lots (and I mean lots) of pivots & misprints, my vision finally came to fruition.</p>
+	  
+	  <p><img src="/Assignment5/IMG_9623.jpg" width="80%"></p>
           
           <p><b>Added a base</b></p>
+	  <p>I originally thought the candle would look good freestanding, which is why I incorporated a cutout for the chord. But it didn't feel quite right and I wanted to make it more stable.
+	  <p>So, I decided to add a base.</p>
           
-          <p><img src="/Assignment5/" width="80%"></p>
-          
+   
+	  
+	  
+	  
+	  
+	  <p>The base was designed so that the candle could wedge into the hole and the lamp "innards" could fit, with a chord "channel" of sorts, so it could easily lay down and exit the lamp. It took 3 prints to get the hole in the middle to be the perfect "wedge" size. 
+	  
+          <p><img src="/Assignment5/cord.jpg" width="80%"></p>
+	  <p><img src="/Assignment5/baseSTL.png" width="80%"></p>
+	  <p><img src="/Assignment5/IMG_9624.jpg" width="80%"></p>
+	 
+	  
+	  <br>
+	  
+	  <b><p>STL Files & Printing Notes</b></p>
+	  <p>A few tricks that really helped me was lowering the fan speed so that it didnt cool as quickly, and I used a zigzag infill design so the light didnt look as "square"-y,
+	  
+	   <p><img src="/Assignment5/finalcura.png" width="80%"></p> 
+	  
+	  
+	  
+	  <br>
       
      
 		
-          
-      		<p><b>STL File</p></b>
-		<p><a href="/Assignment4/CandleCombine1.stl"><b>Mesh Combined STL File</b></a>
+          <p><img src="/Assignment5/CandleSTL.png" width="80%"></p> 
+      		<p><b>STL Files</p></b>
+		<p><a href="/Assignment5/FINALCANDLE.stl"><b>Final Candle STL File</b></a>
+		<p><a href="/Assignment5/FINCandleBase.stl"><b>Final Candle Base STL File</b></a>
       
       
 			
