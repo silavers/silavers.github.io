@@ -1,0 +1,73 @@
+
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Assignment 5: Lamps part 2! And molding and casting part 1!</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+	    
+	    
+        <div class="header">
+            <h1>Assignment 5: Lamps part 2! And molding and casting part 1!</h1>
+         
+            <p><img src="/Assignment5/" width="80%"></p>
+
+    
+		<h2>Final Lamp</h2>
+          <p>After lots 
+          
+          <p><b>Added a base</b></p>
+          
+          <p><img src="/Assignment5/" width="80%"></p>
+          
+      
+     
+		
+          
+      		<p><b>STL File</p></b>
+		<p><a href="/Assignment4/CandleCombine1.stl"><b>Mesh Combined STL File</b></a>
+      
+      
+			
+    <h2>Starting on Lamp!</h2>
+		
+      
+      <p><b>Design</b></p>
+      
+      <p>The design started out and iterated based on finding a new, smaller lightbulb and design considerations to focus on the candle and make it more simple of a design.
+	      
+	    <p> <img src="/Assignment4/Design.jpg" width="40%"></p> 
+      
+      
+      
+      <h3>CAD</h3>
+	    
+	    <p> <img src="/Assignment4/stlc1.png" width="30%"><img src="/Assignment4/stlc2.png" width="30%"><img src="/Assignment4/stlc3.png" width="30%"></p> 
+      
+      <p><b>STL File</p></b>
+		<p><a href="/Assignment3/NestedTriFinal.stl"><b>Nested Triangle STL File</b></a>
+    
+			
+  	<h2>Getting Started with Molds & Casts</h2>
+      
+      <p>
+	
+
+              
+        </div><p>
+        
+
+
+        
+
+          
+          
+</div>
+    </body>
+</html>
